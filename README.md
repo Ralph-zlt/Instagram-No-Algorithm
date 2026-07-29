@@ -8,7 +8,7 @@ Instagram offers no native option to disable **Reels** or **ads**. In the mobile
 
 This script solves all these limitations at once: it removes Reels, hides ads, and eliminates algorithm-suggested posts, delivering a clean feed focused solely on the people you actually chose to follow.
 
-A lightweight Userscript designed to take back control of your time. It removes Instagram's addictive algorithmic feed, hides ads and suggested posts, blocks Reels, and forces the display of **only the people you actually follow**.
+
 
 ---
 
