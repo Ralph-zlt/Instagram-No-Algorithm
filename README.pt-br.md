@@ -11,12 +11,14 @@ Este script resolve todas essas limitações de uma só vez: ele remove os Reels
 
 ---
 
-## 📱 Compatibilidade & Testes
+### 🛠️ Compatibilidade e Testes
 
-> 🛠️ **Status de Testes:** Testado e funcionando no **Firefox** no **PC/Desktop** e no aplicativo **"Firefox browser privado"** no **Android** (utilizando a extensão **Violentmonkey**).
->
-> ⚠️ *Nota para celular:* A maioria dos navegadores mobile comuns (como o Google Chrome) **não suporta extensões**. No Android, use obrigatoriamente o **Firefox padrão (o "browser privado")**. Versões como o *Firefox Focus / Foco* **não foram textados**.
+O script foi projetado tendo o **Firefox** como base de desenvolvimento. Em tese, ele **deve funcionar em qualquer navegador que tenha suporte a extensões e ao Violentmonkey**, mas **não foram realizados testes em outros navegadores** (como Chrome, Edge, Brave, etc.), portanto não há garantia de funcionamento neles.
 
+* 💻 **PC / Desktop:** Testado e funcionando no **Firefox** (com a extensão **Violentmonkey**).
+* 📱 **Celular / Android:** Testado e funcionando no **"Firefox browser privado"** (nome oficial do Firefox na Play Store) com a extensão **Violentmonkey**.
+
+> ⚠️ **Nota para celular:** A maioria dos navegadores mobile comuns (como o Google Chrome) **não suporta extensões**. No Android, procure na Play Store por **"Firefox browser privado"**. Versões simplificadas como o *Firefox Focus / Foco* **não foram testadas**.
 ---
 
 ## ⚡ Como Instalar
