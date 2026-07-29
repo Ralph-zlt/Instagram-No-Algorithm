@@ -38,8 +38,12 @@ Since the extension menu on mobile isn't as obvious as on desktop, follow this s
 3. **Copy the Code:**
    * Open the [`instagram-lipo.user.js`](instagram-lipo.user.js) file here on GitHub and **copy all the text/code** inside it.
 4. **Paste in Violentmonkey:**
-   * In Firefox, go to three dots > **Add-ons** > select **Violentmonkey**.
-   * 💡 **Screen Attention:** If Violentmonkey opens directly to the settings tab, look at the menu at the top of the screen (`Scripts | Settings | Sync`) and tap **Scripts**.
+   * In Firefox, go to the three dots menu > **Add-ons** (or *Extensions*) > select **Violentmonkey** and go to settings.
+   * 💡 **Screen Attention:** If Violentmonkey opens directly to the settings tab, look at the menu at the top of the screen (`Scripts | Settings | Update | Sync`) and tap **Scripts**.
+   * On the Scripts screen, tap the **"+"** icon (New script / Create script).
+   * **Delete** all default text that appears there.
+   * **Paste** the code you copied.
+   * Tap the **Save** icon (the floppy disk at the top) and close that tab
    * On the Scripts screen, tap the **"+"** icon (New script / Create script).
    * **Delete** all default text that appears there.
    * **Paste** the code you copied.
