@@ -18,7 +18,7 @@ A lightweight Userscript designed to take back control of your time. It removes 
 
 ### 💻 On PC (Desktop)
 
-1. Install the **Violentmonkey** or **Tampermonkey** extension in your browser.
+1. Install the **Violentmonkey**  extension in your browser.
 2. Open the [`instagram-lipo.user.js`](instagram-lipo.user.js) file in this repository and **copy all the code**.
 3. Click the extension icon in your browser > **Create a new script** (`+` icon).
 4. **Paste** the code inside, click **Save** (or `Ctrl + S`), and you're good to go!
