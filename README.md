@@ -43,10 +43,8 @@ Since the extension menu on mobile isn't as obvious as on desktop, follow this s
    * On the Scripts screen, tap the **"+"** icon (New script / Create script).
    * **Delete** all default text that appears there.
    * **Paste** the code you copied.
-   * Tap the **Save** icon (the floppy disk at the top) and close that tab
-   * 
+   * Tap the **Save** icon (the floppy disk at the top) and close that tab.
 5. **Done!** Open Instagram in Firefox and enjoy a clean screen.
-
 ---
 
 ## ✨ How It Works (Read before using!)
