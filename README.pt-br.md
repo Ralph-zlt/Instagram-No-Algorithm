@@ -82,6 +82,7 @@ Essas restrições incluem, **como por exemplo, mas não se limitando a:**
 - [x] Modo Home sem feed (Apenas Stories)
 - [x] Transformar o botão Reels em atalho para a aba "Seguindo"
 - [x] Ocultar posts patrocinados e sugeridos
+- [ ] Bloqueio de Rolagem em Reels Individuais:** Ao abrir um Reel específico (como os links recebidos por mensagem/Direct), a rolagem para cima e para baixo será bloqueada para evitar a navegação infinita em outros vídeos recomendados.
 - [ ] Unificar em uma tela única os Stories e o feed "Seguindo" (evitando ter que clicar no botão de Reels para ver os posts)
 - [ ] Corrigir o rápido "pisca" do feed principal que aparece brevemente na tela no momento em que um Story está carregando
 
