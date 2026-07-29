@@ -8,9 +8,9 @@ Um Userscript leve criado para devolver o controle do seu tempo. Ele remove o fe
 
 ## 📱 Compatibilidade & Testes
 
-> 🛠️ **Status de Testes:** Testado e funcionando no **Firefox** no **PC/Desktop** e no aplicativo **"Firefox: o navegador web privado"** no **Android** (utilizando a extensão **Violentmonkey** ou **Tampermonkey**).
+> 🛠️ **Status de Testes:** Testado e funcionando no **Firefox** no **PC/Desktop** e no aplicativo **"Firefox browser privado"** no **Android** (utilizando a extensão **Violentmonkey** ou **Tampermonkey**).
 >
-> ⚠️ *Nota para celular:* A maioria dos navegadores mobile comuns (como o Google Chrome) **não suporta extensões**. No Android, use obrigatoriamente o **Firefox padrão ("o navegador web privado")**. Versões como o *Firefox Focus / Foco* **não possuem suporte a extensões**.
+> ⚠️ *Nota para celular:* A maioria dos navegadores mobile comuns (como o Google Chrome) **não suporta extensões**. No Android, use obrigatoriamente o **Firefox padrão (o "browser privado")**. Versões como o *Firefox Focus / Foco* **não foram textados**.
 
 ---
 
