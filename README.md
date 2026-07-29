@@ -85,6 +85,7 @@ These limitations include, **for example, but are not limited to:**
 - [x] Zero-feed Home mode (Stories only)
 - [x] Turn Reels button into a shortcut for the "Following" tab
 - [x] Hide sponsored and suggested posts
+- [ ] Scroll Lock on Individual Reels:** When opening a specific Reel (such as links received via Direct Message), vertical scrolling will be disabled to prevent getting sucked into the infinite recommended video feed.
 - [ ] Unify Stories and "Following" feed into a single screen (avoiding having to click the Reels button to view posts)
 - [ ] Fix the quick "flicker" of the main feed briefly appearing on screen while a Story is loading
 
