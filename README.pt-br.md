@@ -28,9 +28,8 @@ Um Userscript leve criado para devolver o controle do seu tempo. Ele remove o fe
 ### 📱 No Celular (Android - Passo a Passo para Leigos)
 
 Como o menu de extensões no celular não é tão óbvio quanto no computador, siga este guia simples:
-
 1. **Baixe o Firefox Correto:** 
-   * Na Play Store, pesquise por **"Firefox browser privado"** (o aplicativo padrão do Firefox).
+   * Na Play Store, pesquise por **"Firefox: o navegador web privado"** (o aplicativo padrão do Firefox).
    * ⚠️ *Atenção:* **Não** baixe o "Firefox Focus" / "Firefox Foco", pois ele não possui suporte a extensões.
 2. **Instale o Violentmonkey:**
    * Abra o Firefox no celular.
@@ -38,16 +37,14 @@ Como o menu de extensões no celular não é tão óbvio quanto no computador, s
    * Procure por **Violentmonkey** e clique no botão **+** para instalar.
 3. **Copie o Código:**
    * Abra o arquivo [`instagram-lipo.user.js`](instagram-lipo.user.js) aqui no GitHub e **copie todo o texto/código** dele.
-**Cole no Violentmonkey:**
+4. **Cole no Violentmonkey:**
    * No Firefox, vá nos três pontinhos > **Extensões** > selecione **Violentmonkey** e vá em **Configurações**.
    * 💡 **Atenção à tela:** Se o Violentmonkey abrir direto na aba de configurações, olhe no menu no topo da tela (`Scripts | Configurações | Atualizar | Sincronização`) e toque em **Scripts**.
    * Na tela de Scripts, toque no ícone de **"+"** (Novo script / Criar script).
    * **Apague** todo o texto padrão que já estiver lá.
    * **Cole** o código que você copiou.
    * Toque no ícone de **Salvar** (o disquete no topo) e feche essa aba.
- 
 5. **Pronto!** Abra o site do Instagram no Firefox e aproveite a tela limpa.
-
 ---
 
 ## ✨ Como Funciona (Leia antes de usar!)
