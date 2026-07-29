@@ -71,7 +71,7 @@ Como este script roda diretamente na versão Web do Instagram (para conseguir li
 
 Essas restrições incluem, **como por exemplo, mas não se limitando a:**
 
-* **💬 Recursos Interativos nos Stories:** O Instagram bloqueia a resposta e o uso de caixinhas de perguntas, enquetes, testes e figurinhas interativas no navegador, exibindo um aviso para *"abrir no aplicativo"*.
+
 * **📸 Criação e Postagem de Stories:** As ferramentas para criar ou publicar Stories pelo navegador são bastante reduzidas em comparação ao app (como limitações na adição de músicas, uso de filtros, edições avançadas e formatos de mídia).
 * **💬 Caixas de Pergunta e Enquetes nos Stories:** O Instagram bloqueia a resposta a caixinhas de perguntas, enquetes e testes no navegador, exibindo um aviso para "abrir no aplicativo". **Isso é um bloqueio nativo do site do Instagram e não um erro do script.**
 
