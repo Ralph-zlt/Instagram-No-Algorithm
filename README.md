@@ -64,11 +64,17 @@ Since the extension menu on mobile isn't as obvious as on desktop, follow this s
 
 ---
 
-## ⚠️ Known Limitations (Imposed by Instagram Web)
+### ⚠️ Known Limitations (Instagram Web Native Restrictions)
 
-Since this script runs on the web version of Instagram (via browser) to block algorithmic feeds, it is subject to **limitations enforced by Meta itself** for browsing outside the official app:
+Since this script runs directly on the Web version of Instagram (to clean up the feed and block algorithms), it is subject to the **limitations imposed by Meta** for browsing outside the official mobile app.
 
-* **💬 Question Boxes and Polls in Stories:** Instagram blocks replying to question boxes, polls, and quizzes in web browsers, prompting you to "open in the app". **This is a native restriction by Instagram's website, not a script bug.**
+> **Note:** The limitations listed below **are not script bugs or errors**, but native restrictions of the Instagram Web platform itself.
+
+These limitations include, **for example, but are not limited to:**
+
+* **💬 Interactive Story Features:** Instagram blocks responding to or using question boxes, polls, quizzes, and interactive stickers in web browsers, displaying a prompt to *"open in app"*.
+* **📸 Story Creation and Posting:** Tools available when creating or publishing Stories via browser are significantly reduced compared to the app (such as limitations with adding music, filters, advanced editing, and media formats).
+
 
 
 ## 🚧 Next Steps (Roadmap)
