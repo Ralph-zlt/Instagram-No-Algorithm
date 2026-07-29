@@ -8,7 +8,6 @@ O Instagram não oferece nenhuma opção nativa para remover os **Reels** ou **a
 
 Este script resolve todas essas limitações de uma só vez: ele remove os Reels, oculta os anúncios e elimina os posts sugeridos pelo algoritmo, devolvendo um feed limpo e focado apenas nas pessoas que você escolheu seguir.
 
-Um Userscript leve criado para devolver o controle do seu tempo. Ele remove o feed algorítmico do Instagram, oculta anúncios e posts sugeridos, bloqueia os Reels e força a exibição **apenas das pessoas que você realmente segue**.
 
 ---
 
