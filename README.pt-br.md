@@ -64,6 +64,12 @@ Como o menu de extensões no celular não é tão óbvio quanto no computador, s
 
 ---
 
+## ⚠️ Limitações Conhecidas (Do próprio Instagram Web)
+
+Como este script roda na versão web do Instagram (pelo navegador) para poder bloquear os algoritmos, ele fica sujeito às **limitações impostas pela própria Meta** para navegação fora do aplicativo oficial:
+
+* **💬 Caixas de Pergunta e Enquetes nos Stories:** O Instagram bloqueia a resposta a caixinhas de perguntas, enquetes e testes no navegador, exibindo um aviso para "abrir no aplicativo". **Isso é um bloqueio nativo do site do Instagram e não um erro do script.**
+
 ## 🚧 Próximos Passos (Roadmap)
 
 - [x] Modo Home sem feed (Apenas Stories)
