@@ -12,11 +12,14 @@ This script solves all these limitations at once: it removes Reels, hides ads, a
 
 ---
 
-## 📱 Compatibility & Testing
+### 🛠️ Compatibility & Testing
 
-> 🛠️ **Testing Status:** Tested and working on **Firefox** on **PC/Desktop** and on the **"Firefox: Private  Browser"** app on **Android** (using the **Violentmonkey** extension).
->
-> ⚠️ *Mobile Note:* Most common mobile browsers (like Google Chrome) **do not support extensions**. On Android, you must use the standard **Firefox ("Private Fast Browser")**. Versions like *Firefox Focus* **do not have support**.
+This script was built with **Firefox** as its primary development base. In theory, it **should work on any browser that supports extensions and Violentmonkey**, but **it has not been tested on other browsers** (such as Chrome, Edge, Brave, etc.), so compatibility with them is not guaranteed.
+
+* 💻 **PC / Desktop:** Tested and working on **Firefox** (using the **Violentmonkey** extension).
+* 📱 **Mobile / Android:** Tested and working on **"Firefox browser privado"** (official Firefox app name on Google Play Store) using the **Violentmonkey** extension.
+
+> ⚠️ **Note for mobile:** Most standard mobile browsers (like Google Chrome) **do not support extensions**. On Android, search for **"Firefox browser privado"** on Google Play. Lightweight versions like *Firefox Focus* do not support extensions and **have not been tested**.
 
 ---
 
