@@ -8,7 +8,7 @@ Um Userscript leve criado para devolver o controle do seu tempo. Ele remove o fe
 
 ## 📱 Compatibilidade & Testes
 
-> 🛠️ **Status de Testes:** Testado e funcionando no **Firefox** no **PC/Desktop** e no aplicativo **"Firefox browser privado"** no **Android** (utilizando a extensão **Violentmonkey** ou **Tampermonkey**).
+> 🛠️ **Status de Testes:** Testado e funcionando no **Firefox** no **PC/Desktop** e no aplicativo **"Firefox browser privado"** no **Android** (utilizando a extensão **Violentmonkey**).
 >
 > ⚠️ *Nota para celular:* A maioria dos navegadores mobile comuns (como o Google Chrome) **não suporta extensões**. No Android, use obrigatoriamente o **Firefox padrão (o "browser privado")**. Versões como o *Firefox Focus / Foco* **não foram textados**.
 
@@ -30,7 +30,7 @@ Um Userscript leve criado para devolver o controle do seu tempo. Ele remove o fe
 Como o menu de extensões no celular não é tão óbvio quanto no computador, siga este guia simples:
 1. **Baixe o Firefox Correto:** 
    * Na Play Store, pesquise por **"Firefox: o navegador web privado"** (o aplicativo padrão do Firefox).
-   * ⚠️ *Atenção:* **Não** baixe o "Firefox Focus" / "Firefox Foco", pois ele não possui suporte a extensões.
+   * ⚠️ *Atenção:* **Não** baixe o "Firefox Focus" / "Firefox Foco", pois não foram textados.
 2. **Instale o Violentmonkey:**
    * Abra o Firefox no celular.
    * Toque nos **três pontinhos** (menu no canto da tela) e vá em **Extensões** (ou *Complementos*).
