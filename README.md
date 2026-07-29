@@ -17,10 +17,11 @@ A lightweight Userscript designed to take back control of your time. It removes 
 ## ⚡ How to Install
 
 ### 💻 On PC (Desktop)
-1. Install the [Violentmonkey](https://violentmonkey.github.io/) or [Tampermonkey](https://www.tampermonkey.net/) extension on your Firefox.
-2. Open the [`instagram-lipo.user.js`](instagram-lipo.user.js) file here in the repository.
-3. Copy the code, create a new script in the extension, and paste it there (or click the **Raw** button to install directly with 1 click).
 
+1. Install the **Violentmonkey** or **Tampermonkey** extension in your browser.
+2. Open the [`instagram-lipo.user.js`](instagram-lipo.user.js) file in this repository and **copy all the code**.
+3. Click the extension icon in your browser > **Create a new script** (`+` icon).
+4. **Paste** the code inside, click **Save** (or `Ctrl + S`), and you're good to go!
 ---
 
 ### 📱 On Mobile (Android - Step-by-Step for Beginners)
