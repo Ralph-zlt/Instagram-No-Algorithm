@@ -38,9 +38,13 @@ Como o menu de extensões no celular não é tão óbvio quanto no computador, s
    * Procure por **Violentmonkey** e clique no botão **+** para instalar.
 3. **Copie o Código:**
    * Abra o arquivo [`instagram-lipo.user.js`](instagram-lipo.user.js) aqui no GitHub e **copie todo o texto/código** dele.
-4. **Cole no Violentmonkey:**
-   * No Firefox, vá nos três pontinhos > **Extensões** > selecione **Violentmonkey ** e va em configurações.
-   * 💡 **Atenção à tela:** Se o Violentmonkey abrir direto na aba de configurações, olhe no menu no topo da tela (`Scripts  Configurações | Atualizar | Sincronização`) e toque em **Scripts**.
+**Cole no Violentmonkey:**
+   * No Firefox, vá nos três pontinhos > **Extensões** > selecione **Violentmonkey** e vá em **Configurações**.
+   * 💡 **Atenção à tela:** Se o Violentmonkey abrir direto na aba de configurações, olhe no menu no topo da tela (`Scripts | Configurações | Atualizar | Sincronização`) e toque em **Scripts**.
+   * Na tela de Scripts, toque no ícone de **"+"** (Novo script / Criar script).
+   * **Apague** todo o texto padrão que já estiver lá.
+   * **Cole** o código que você copiou.
+   * Toque no ícone de **Salvar** (o disquete no topo) e feche essa aba.
    * Na tela de Scripts, toque no ícone de **"+"** (Novo script / Criar script).
    * **Apague** todo o texto padrão que já estiver lá.
    * **Cole** o código que você copiou.
