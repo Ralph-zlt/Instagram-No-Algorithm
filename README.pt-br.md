@@ -35,7 +35,7 @@ Este script resolve todas essas limitações de uma só vez: ele remove os Reels
 Como o menu de extensões no celular não é tão óbvio quanto no computador, siga este guia simples:
 1. **Baixe o Firefox Correto:** 
    * Na Play Store, pesquise por **"Firefox: o navegador web privado"** (o aplicativo padrão do Firefox).
-   * ⚠️ *Atenção:* **Não** baixe o "Firefox Focus" / "Firefox Foco", pois não foram textados.
+   * ⚠️ *Atenção:* **Não** baixe o "Firefox Focus" / "Firefox Foco", pois não foram testados.
 2. **Instale o Violentmonkey:**
    * Abra o Firefox no celular.
    * Toque nos **três pontinhos** (menu no canto da tela) e vá em **Extensões** (ou *Complementos*).
