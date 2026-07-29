@@ -45,10 +45,7 @@ Como o menu de extensões no celular não é tão óbvio quanto no computador, s
    * **Apague** todo o texto padrão que já estiver lá.
    * **Cole** o código que você copiou.
    * Toque no ícone de **Salvar** (o disquete no topo) e feche essa aba.
-   * Na tela de Scripts, toque no ícone de **"+"** (Novo script / Criar script).
-   * **Apague** todo o texto padrão que já estiver lá.
-   * **Cole** o código que você copiou.
-   * Toque no ícone de **Salvar** (o disquete no topo) e feche essa aba.
+ 
 5. **Pronto!** Abra o site do Instagram no Firefox e aproveite a tela limpa.
 
 ---
