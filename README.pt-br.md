@@ -18,7 +18,7 @@ Um Userscript leve criado para devolver o controle do seu tempo. Ele remove o fe
 
 ### 💻 No PC (Desktop)
 
-1. Instale a extensão **Violentmonkey** ou **Tampermonkey** no seu navegador.
+1. Instale a extensão **Violentmonkey** no seu navegador.
 2. Abra o arquivo [`instagram-lipo.user.js`](instagram-lipo.user.js) aqui no repositório e **copie todo o código**.
 3. Clique no ícone da extensão no seu navegador > **Criar novo script** (ícone de `+`).
 4. **Cole** o código lá dentro, clique em **Salvar** (ou `Ctrl + S`) e pronto!
