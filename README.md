@@ -63,6 +63,13 @@ Since the extension menu on mobile isn't as obvious as on desktop, follow this s
 
 ---
 
+## ⚠️ Known Limitations (Imposed by Instagram Web)
+
+Since this script runs on the web version of Instagram (via browser) to block algorithmic feeds, it is subject to **limitations enforced by Meta itself** for browsing outside the official app:
+
+* **💬 Question Boxes and Polls in Stories:** Instagram blocks replying to question boxes, polls, and quizzes in web browsers, prompting you to "open in the app". **This is a native restriction by Instagram's website, not a script bug.**
+
+
 ## 🚧 Next Steps (Roadmap)
 
 - [x] Zero-feed Home mode (Stories only)
