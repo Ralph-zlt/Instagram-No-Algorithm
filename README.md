@@ -8,9 +8,9 @@ A lightweight Userscript designed to take back control of your time. It removes 
 
 ## 📱 Compatibility & Testing
 
-> 🛠️ **Testing Status:** Tested and working on **Firefox** on **PC/Desktop** and on the **"Firefox: Private  Browser"** app on **Android** (using the **Violentmonkey** or **Tampermonkey** extension).
+> 🛠️ **Testing Status:** Tested and working on **Firefox** on **PC/Desktop** and on the **"Firefox: Private  Browser"** app on **Android** (using the **Violentmonkey** extension).
 >
-> ⚠️ *Mobile Note:* Most common mobile browsers (like Google Chrome) **do not support extensions**. On Android, you must use the standard **Firefox ("Private Fast Browser")**. Versions like *Firefox Focus* **do not have extension support**.
+> ⚠️ *Mobile Note:* Most common mobile browsers (like Google Chrome) **do not support extensions**. On Android, you must use the standard **Firefox ("Private Fast Browser")**. Versions like *Firefox Focus* **do not have support**.
 
 ---
 
@@ -30,7 +30,7 @@ Since the extension menu on mobile isn't as obvious as on desktop, follow this s
 
 1. **Download the Right Firefox:** 
    * In the Play Store, search for **"Firefox: Private Fast Browser"** (the standard Firefox app).
-   * ⚠️ *Attention:* Do **NOT** download "Firefox Focus", as it lacks extension support.
+   * ⚠️ *Attention:* Do **NOT** download "Firefox Focus", as it lacks support.
 2. **Install Violentmonkey:**
    * Open Firefox on your phone.
    * Tap the **three dots** (menu icon) and go to **Add-ons** (or *Extensions*).
