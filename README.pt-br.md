@@ -17,9 +17,11 @@ Um Userscript leve criado para devolver o controle do seu tempo. Ele remove o fe
 ## ⚡ Como Instalar
 
 ### 💻 No PC (Desktop)
-1. Instale a extensão [Violentmonkey](https://violentmonkey.github.io/) ou [Tampermonkey](https://www.tampermonkey.net/) no seu Firefox.
-2. Abra o arquivo [`instagram-lipo.user.js`](instagram-lipo.user.js) aqui no repositório.
-3. Copie o código, crie um novo script na extensão e cole lá (ou clique no botão **Raw** para instalar direto com 1 clique).
+
+1. Instale a extensão **Violentmonkey** ou **Tampermonkey** no seu navegador.
+2. Abra o arquivo [`instagram-lipo.user.js`](instagram-lipo.user.js) aqui no repositório e **copie todo o código**.
+3. Clique no ícone da extensão no seu navegador > **Criar novo script** (ícone de `+`).
+4. **Cole** o código lá dentro, clique em **Salvar** (ou `Ctrl + S`) e pronto!
 
 ---
 
@@ -37,8 +39,8 @@ Como o menu de extensões no celular não é tão óbvio quanto no computador, s
 3. **Copie o Código:**
    * Abra o arquivo [`instagram-lipo.user.js`](instagram-lipo.user.js) aqui no GitHub e **copie todo o texto/código** dele.
 4. **Cole no Violentmonkey:**
-   * No Firefox, vá nos três pontinhos > **Extensões** > selecione **Violentmonkey**.
-   * 💡 **Atenção à tela:** Se o Violentmonkey abrir direto na aba de configurações, olhe no menu no topo da tela (`Scripts | Configurações | Sincronização`) e toque em **Scripts**.
+   * No Firefox, vá nos três pontinhos > **Extensões** > selecione **Violentmonkey ** e va em configurações.
+   * 💡 **Atenção à tela:** Se o Violentmonkey abrir direto na aba de configurações, olhe no menu no topo da tela (`Scripts  Configurações | Atualizar | Sincronização`) e toque em **Scripts**.
    * Na tela de Scripts, toque no ícone de **"+"** (Novo script / Criar script).
    * **Apague** todo o texto padrão que já estiver lá.
    * **Cole** o código que você copiou.
