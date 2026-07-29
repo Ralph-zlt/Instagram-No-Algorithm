@@ -1,6 +1,6 @@
 🇺🇸 [Read in English](README.md)
 
-# 🚫 Instagram Sem Algorithm
+# 🚫 Instagram Sem Algoritimo
 
 Um Userscript leve criado para devolver o controle do seu tempo. Ele remove o feed algorítmico do Instagram, oculta anúncios e posts sugeridos, bloqueia os Reels e força a exibição **apenas das pessoas que você realmente segue**.
 
